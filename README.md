@@ -1,4 +1,4 @@
-### Meta
+ ### Meta
 
 - **URLs:** [production](https://www.typescriptlang.org)
 - **Translations:** [microsoft/TypeScript-Website-Localizations](https://github.com/microsoft/TypeScript-Website-Localizations)
